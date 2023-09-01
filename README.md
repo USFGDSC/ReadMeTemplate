@@ -14,7 +14,7 @@ Built a CLI wordle game in python
 - Python
 
 ## Credits
-- [GDSC's Repo]) (https://github.com/USFGDSC/Py-wordle)
+- [GDSC's Repo](https://github.com/USFGDSC/Py-wordle)
 
 
 <p align=center>
